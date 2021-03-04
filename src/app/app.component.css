@@ -1,0 +1,24 @@
+.square {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.good-pen {
+    /* display: flex;
+    flex-direction: column;
+    columns: 1em 1em 1em; */
+}
+
+.g {
+    height:5px;
+    width:5px;
+    background-color: green;
+}
+.b {
+    height:5px;
+    width:5px;
+    background-color: red;
+}
